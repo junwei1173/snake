@@ -1,2 +1,2 @@
-Basic Snake game with Java
+Snake game with Java
 
